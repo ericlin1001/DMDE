@@ -1,0 +1,13 @@
+g++ main.cpp
+./a.out
+setting.getAuthorInfo("Email")=nameljh1001@gmail.com
+setting.getAuthorInfo("Author")=Eric Lin
+setting.getString("Name")=DMDE
+setting.getDouble("F")=0.9
+setting.getDouble("CR")=0.1
+setting.getInt("Dim")=2
+setting.getInt("MaxFEs")=10000
+setting.getInt("PopSize")=100
+setting.getInt("NumSubPop")=5
+setting.getInt("NumGenPerComm")=5
+[[-1,-1],[1,1]]hello
